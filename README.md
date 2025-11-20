@@ -1,5 +1,4 @@
-# PYTHON---Vendas_Amazon-MATPLOTLIB
-Análise de vendas da Amazon em 2025 a partir de dataset disponibilizado no Kaggle, com objetivo de trazer insights sobre os melhores meses de vendas, categorias e cidade dos consumidores.
+# Análise de vendas da Amazon em 2025 a partir de dataset disponibilizado no Kaggle, com objetivo de trazer insights sobre os melhores meses de vendas, categorias e cidade dos consumidores.
 
 FIGURA 1 : Total de vendas mensais por categoria mostrando forte sazonalidade
 
